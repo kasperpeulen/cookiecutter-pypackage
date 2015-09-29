@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-pub get
+pub get --no-package-symlinks
