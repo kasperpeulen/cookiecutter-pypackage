@@ -1,4 +1,4 @@
-name: {{cookiecutter.repo_name}}
+name: {{cookiecutter.package_name}}
 version: 0.0.0
 description: 
 author: Kasper Peulen <kasperpeulen@gmail.com>
