@@ -5,3 +5,6 @@
 build/
 packages
 .packages
+
+### JetBrains template
+.idea/
