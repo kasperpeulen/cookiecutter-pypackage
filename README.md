@@ -1,6 +1,6 @@
 ## Installation
 
 ```
-brew install cookiecutter
+pip install cookiecutter
 cookiecutter gh:kasperpeulen/ng2-starter
 ```
